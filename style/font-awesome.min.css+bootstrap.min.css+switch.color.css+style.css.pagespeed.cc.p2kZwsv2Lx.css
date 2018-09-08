@@ -1911,7 +1911,6 @@ p.mini{
 		background: rgba(0,0,0,0.75);
 		padding: 40px;
 		opacity: 0;
-		cursor: pointer;
 		overflow: hidden;
 
 	    -moz-transition: all 0.3s linear 0s;
